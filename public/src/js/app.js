@@ -1,4 +1,4 @@
-
+/* commit for git push - delete later */
 var button = document.querySelector('#start-button');
 var output = document.querySelector('#output');
 
